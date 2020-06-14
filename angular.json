@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "secugenAngular"
+    }
+  },
+  "defaultProject": "secugenAngular",
+  "cli": {
+    "analytics": "9b264065-5d83-4138-9949-207db886147d"
+  }
 }
